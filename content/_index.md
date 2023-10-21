@@ -10,5 +10,3 @@ her about it.
 
 My newest obsession is Rust, but I'll happily talk your ear off about language
 design, games, space, or math if you'll let me.
-
-Feel free to stay as long as you like. Or until you fall asleep.

@@ -8,7 +8,7 @@ compile_sass = true
 build_search_index = false
 
 title = "The Boring Blog"
-theme = "simple-dev-blog"
+theme = "toucan"
 
 taxonomies = [{ name = "tags" }]
 

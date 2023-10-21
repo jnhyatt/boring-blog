@@ -1,3 +1,6 @@
 [submodule "themes/simple-dev-blog"]
 	path = themes/simple-dev-blog
 	url = https://github.com/bennetthardwick/simple-dev-blog-zola-starter
+[submodule "toucan"]
+	path = themes/toucan1
+	url = https://git.42l.fr/HugoTrentesaux/toucan.git
