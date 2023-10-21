@@ -1,7 +1,7 @@
 +++
 title = "Dev Log #1"
 [taxonomies]
-tags = [ "chain reaction" ]
+tags = [ "dev log", "chain reaction" ]
 +++
 
 # Releasing is Hard
